@@ -80,21 +80,3 @@ POST	/api/cart/add	Add an item to the cart
 DELETE	/api/cart/remove/:id	Remove item from cart
 
 
-Copy code
-$ npm start
-Endpoints Overview
-Method	Endpoint	Description
-POST	/api/auth/register	Register a new user
-POST	/api/auth/login	Login a user
-GET	/api/auth/logout	Logout a user
-GET	/api/products	Get all products
-POST	/api/products	Create a new product (Admin)
-PUT	/api/products/:id	Update product details (Admin)
-DELETE	/api/products/:id	Delete a product (Admin)
-GET	/api/cart	Get items in the cart
-POST	/api/cart/add	Add an item to the cart
-DELETE	/api/cart/remove/:id	Remove item from cart
-POST	/api/orders	Create a new order
-👨‍💻 API Documentation
-Detailed API documentation is available (Swagger or Postman collection link if applicable).
-👨‍💻 Happy coding!
