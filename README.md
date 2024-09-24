@@ -1,6 +1,6 @@
 Attar Store Backend (In Progress)
-Features
-RESTful APIs for managing products, users, and orders
+Features. 
+RESTful APIS for managing products, users, and orders
 User authentication using JWT (Login, Logout, Protected Routes)
 Image upload and handling for product images
 Full CRUD (Create, Read, Update, Delete) operations for products, users, and orders
